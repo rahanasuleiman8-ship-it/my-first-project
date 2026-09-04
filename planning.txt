@@ -1,0 +1,6 @@
+My Learning Plan
+
+1. Learn Git
+2. Learn JavaScript
+3. Build projects
+4. Apply for tech jobs 😊
